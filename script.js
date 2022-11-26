@@ -1,7 +1,7 @@
 
 function calc(){
   
-    var age = document.getElementById("txtInput").value;
+    var age = 21;
 
       if (!isNaN(age)){
         var string = document.createElement("div");
