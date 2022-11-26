@@ -1,7 +1,7 @@
 
 function calc(){
   
-    var age = 21;
+    int age = 21;
 
       if (!isNaN(age)){
         var string = document.createElement("div");
